@@ -1,0 +1,5 @@
+Coffee Command for Ruby
+
+Allow you to compile Coffescript to Javascript using the coffee-script gem.
+
+I've created to make compile habilities of coffee-mode in Emacs work without Node.js.
